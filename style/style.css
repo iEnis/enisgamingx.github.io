@@ -41,3 +41,13 @@
     position: absolute;
     opacity: 0;
 }
+
+.xbox .quadrant {
+    position: absolute;
+    background: url(quadrant.png);
+    height: 45px;
+    width: 45px;
+    top: 258px;
+    left: 354px;
+    z-index: 0;
+}
